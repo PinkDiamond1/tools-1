@@ -1,4 +1,4 @@
-i#!/bin/sh
+#!/bin/sh
 
 # Send a notification to the repository Build Status Channel once a travis CI build completes.
 
